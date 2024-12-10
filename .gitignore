@@ -1,0 +1,8 @@
+# Ignorar archivos .json
+*.json
+
+# Ignorar archivos .js
+*.js
+
+# Ignorar el archivo .env
+.env
